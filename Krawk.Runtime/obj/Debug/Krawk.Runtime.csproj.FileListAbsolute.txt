@@ -1,0 +1,6 @@
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Runtime\bin\Debug\Krawk.Runtime.dll
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Runtime\bin\Debug\Krawk.Runtime.pdb
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Runtime\obj\Debug\Krawk.Runtime.csprojAssemblyReference.cache
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Runtime\obj\Debug\Krawk.Runtime.csproj.CoreCompileInputs.cache
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Runtime\obj\Debug\Krawk.Runtime.dll
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Runtime\obj\Debug\Krawk.Runtime.pdb

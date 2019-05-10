@@ -1,0 +1,10 @@
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\bin\Debug\Krawk.Helpers.dll
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\bin\Debug\Krawk.Helpers.pdb
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\bin\Debug\dnlib.dll
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\bin\Debug\dnlib.pdb
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\bin\Debug\dnlib.xml
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\obj\Debug\Krawk.Helpers.csprojAssemblyReference.cache
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\obj\Debug\Krawk.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\obj\Debug\Krawk.Helpers.csproj.CopyComplete
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\obj\Debug\Krawk.Helpers.dll
+C:\Users\CrIsT\Desktop\Krawk-Protector\Krawk.Helpers\obj\Debug\Krawk.Helpers.pdb

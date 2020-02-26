@@ -23,9 +23,9 @@ Features:
 
 Thx to [xXeptioN](https://github.com/xXeptioN) for SpecterObfuscator.
 
-Thx to [0xd4d] (https://github.com/0xd4d) for dnlib.
+Thx to [0xd4d](https://github.com/0xd4d) for dnlib.
 
-Thx to [yck1509] (https://github.com/0xd4d) for helping me understand many things.
+Thx to [yck1509](https://github.com/0xd4d) for helping me understand many things.
 
 I won't provide support please don't look for me!
 

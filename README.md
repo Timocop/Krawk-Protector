@@ -1,7 +1,7 @@
 # Krawk Protector
 
 My old obfuscator, i created from studies.
-**Features: **
+Features: 
 > Constants Protection (x86 Mode)
 > Assembly Renamer & Rename Title Protection
 > AntiIlDasm Protection 
@@ -16,5 +16,5 @@ Thx to [0xd4d] (https://github.com/0xd4d) for dnlib.
 Thx to [yck1509] (https://github.com/0xd4d) for helping me understand many things.
 
 
-**I won't provide support please don't look for me!**
+I won't provide support please don't look for me!
 
